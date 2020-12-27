@@ -1,0 +1,2 @@
+# myscripts
+mes script zsh
